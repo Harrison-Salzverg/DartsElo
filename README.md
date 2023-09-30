@@ -2,7 +2,16 @@
 Creating an Elo system for our local Darts matches/tournaments.
 
 The Aim with this project is to creating a functional Elo system similar to one which can be found in games such as chess and Go for Darts.
-The product must be easy to use and accessible for non technical users for use in our local darts matches which take place during our tournaments. 
+The product must be easy to use and accessible for non technical users for use in our local darts matches which take place during our tournaments.
+
+## Download instructions
+Run `git clone https://github.com/jackconryan/DartsElo`
+
+Run `npm install` to download dependencies
+
+## Client
+Ensure you have R and Python installed.
+
 
 Special thanks to Daniel Ryan for providing the R code and mathematical expertisehis original product can be seen in the ExcelSheet.R file and Coolmoyne Leaderboards.xlsx excel file. 
 
