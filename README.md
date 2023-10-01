@@ -21,7 +21,7 @@ All other files by Jackcon Ryan
 Documentation by Jackcon Ryan and Harrison Salzverg 
 (https://github.com/Harrison-Salzverg)
 
-See [CONTRIBUTING.md](doc/CONTRIBUTING.md) for details on how to contribute.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
 
 Contributions are made under the [license type] license.  The code of this repository is [license permissions].
 
