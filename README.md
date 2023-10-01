@@ -13,10 +13,15 @@ Run `npm install` to download dependencies
 Ensure you have R and Python installed.
 
 ## Contribute
-Special thanks to Daniel Ryan for providing the R code and mathematical expertise. his original product can be seen in the ExcelSheet.R file and Coolmoyne Leaderboards.xlsx excel file.
+Special thanks to Daniel Ryan for providing the R code and mathematical expertise. 
+His original product can be seen in the ExcelSheet.R file and Coolmoyne Leaderboards.xlsx excel file.
 To date I have refactored his original code, added doubles match functionlaity and changed the data storage from 1 excel file to 3 csv files.
-All other files by Jackcon Ryan (https://github.com/jackconryan)
-Documentation by Jackcon Ryan and Harrison Salzverg (https://github.com/Harrison-Salzverg)
+All other files by Jackcon Ryan 
+(https://github.com/jackconryan)
+Documentation by Jackcon Ryan and Harrison Salzverg 
+(https://github.com/Harrison-Salzverg)
+
+See [CONTRIBUTING.md](doc/CONTRIBUTING.md) for details on how to contribute.
 
 Contributions are made under the [license type] license.  The code of this repository is [license permissions].
 
